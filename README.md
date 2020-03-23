@@ -17,7 +17,7 @@
 
 ----
 ## 備註
-refresh.py 與 CountFee.py 皆可執行
+refresh.py 與 CountFee.py 皆可執行。
 refresh.py 為資料更新用，建議先執行refresh.py
 
 ----
